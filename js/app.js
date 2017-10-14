@@ -62,6 +62,10 @@ app.controller('InstanceStatusController', function ($scope, $http) {
     {
       name: 'LoadAverage',
       url: 'https://loadaverage.org'
+    },
+    {
+      name: '2mb.social',
+      url: 'https://2mb.social'
     }
   ];
 
