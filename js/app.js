@@ -44,6 +44,10 @@ app.controller('InstanceStatusController', function ($scope, $http) {
       url: 'https://gnusocial.no'
     },
     {
+      name: 'gnusocial.club',
+      url: 'https://gnusocial.club'
+    },
+    {
       name: 'Freezepeach',
       url: 'https://freezepeach.xyz'
     },
