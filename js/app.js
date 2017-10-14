@@ -66,6 +66,10 @@ app.controller('InstanceStatusController', function ($scope, $http) {
     {
       name: '2mb.social',
       url: 'https://2mb.social'
+    },
+    {
+      name: 'bluex.im',
+      url: 'https://bluex.im'
     }
   ];
 
